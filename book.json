@@ -12,15 +12,13 @@
     "-sharing",
     "-search",
     "search-pro",
-    "prism",
-    "-highlight",
     "edit-link",
     "github",
     "advanced-emoji",
     "katex",
     "splitter",
     "tbfed-pagefooter",
-    "toggle-chapters",
+    "expandable-chapters",
     "sectionx",
     "ace",
     "anchor-navigation-ex"
@@ -39,7 +37,11 @@
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
     "theme-default": {
-      "showLevel": false
+      "showLevel": true
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "associatedWithSummary": false
     }
   }
 }
