@@ -20,7 +20,7 @@
     "katex",
     "splitter",
     "tbfed-pagefooter",
-    "toggle-chapters",
+    "expandable-chapters-small",
     "sectionx",
     "ace",
     "anchor-navigation-ex",
@@ -35,12 +35,17 @@
       "url": "https://github.com/whkfzyx"
     },
     "tbfed-pagefooter": {
-      "copyright": "Copyright &copy 武汉开发专业线 2017",
-      "modify_label": "该文件修订时间：",
-      "modify_format": "YYYY-MM-DD HH:mm:ss"
+      "copyright": "Copyright &copy 武汉开发专业线 2017"
     },
     "theme-default": {
       "showLevel": false
+    },
+    "anchor-navigation-ex": {
+      "isRewritePageTitle": true,
+      "isShowTocTitleIcon": true,
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right"
     }
   }
 }
