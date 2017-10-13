@@ -28,11 +28,11 @@
   ],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/petersmu/iLeo/blob/master/",
+      "base": "https://github.com/whkfzyx/how-to-use/blob/master/",
       "label": "编辑此页面"
     },
     "github": {
-      "url": "https://github.com/petersmu"
+      "url": "https://github.com/whkfzyx"
     },
     "tbfed-pagefooter": {
       "copyright": "Copyright &copy ho.ha.cn 2016",
