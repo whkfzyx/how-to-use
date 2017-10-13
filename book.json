@@ -22,9 +22,7 @@
     "tbfed-pagefooter",
     "toggle-chapters",
     "sectionx",
-    "ace",
-    "anchor-navigation-ex",
-    "anchors"
+    "ace"
   ],
   "pluginsConfig": {
     "edit-link": {
