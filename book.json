@@ -1,0 +1,46 @@
+{
+  "author": "liuxuan",
+  "language": "zh-hans",
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+  },
+  "plugins": [
+    "-sharing",
+    "-search",
+    "search-pro",
+    "prism",
+    "-highlight",
+    "edit-link",
+    "github",
+    "advanced-emoji",
+    "katex",
+    "splitter",
+    "tbfed-pagefooter",
+    "toggle-chapters",
+    "sectionx",
+    "ace",
+    "anchor-navigation-ex",
+    "anchors"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/petersmu/iLeo/blob/master/",
+      "label": "编辑此页面"
+    },
+    "github": {
+      "url": "https://github.com/petersmu"
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy ho.ha.cn 2016",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+}
