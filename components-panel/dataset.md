@@ -1,4 +1,4 @@
-# 数据集
+# 数据集组件
 
 ----
 
@@ -14,9 +14,9 @@
 
 ### 缩略图
 
-![MacDown Screenshot](images/dataset.png)
+![](images/dataset.png)
 
-![MacDown Screenshot](images/dataset1.png)
+![](images/dataset1.png)
 
 ### 组件依赖
 
