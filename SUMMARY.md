@@ -9,3 +9,6 @@
 * [容器组件](components-panel/index.md)
   * [数据集](components-panel/dataset.md)
 
+* [展示组件](components-display/index.md)
+  * [表格](components-display/grid.md)
+  * [图表](components-display/chart.md)
