@@ -14,3 +14,7 @@
 * [展示组件](components-display/index.md)
   * [表格组件](components-display/grid.md)
   * [图表组件](components-display/chart.md)
+
+* [展示组件](components-form/index.md)
+  * [下拉选择组件](components-form/checklist.md)
+  * [跳转选择组件](components-form/jumper.md)
