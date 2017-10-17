@@ -289,3 +289,9 @@ img {
 .bsa-cpc .default-ad {
   display: none;
 }
+
+/* table */
+.markdown-section table td:nth-child(1),
+.markdown-section table th {
+  white-space: nowrap; 
+}
