@@ -22,13 +22,13 @@
 
 ## 配置说明
 
-|配置项|必填|数据类型|格式|版本|
+|配置项|必填|数据类型|格式|备注|
 |:--|:--|:--|:--|:--|
-|参数名|是|String|param1|v0.0.1|
-|触发的事件|是|String|onXXX-XXXX-XXXX|v0.0.1|
-|TAB名|是|String|a|v0.0.1|
-|TAB值|是|String|a|v0.0.1|
-|默认值|是|Radio||v0.0.1|
+|参数名|是|String|param1||
+|触发的事件|是|String|onXXX-XXXX-XXXX||
+|TAB名|是|String|a||
+|TAB值|是|String|a||
+|默认值|是|Radio|||
 
 ## 注意事项
 

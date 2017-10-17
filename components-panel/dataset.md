@@ -24,10 +24,10 @@
 
 ## 配置说明
 
-|配置项|必填|数据类型|格式|版本|
+|配置项|必填|数据类型|格式|备注|
 |:--|:--|:--|:--|:--|
-|查询API|是|String|[/xx/xx]() or [http://xxx/xx/xx]() or [https://xxx/xx/xx]()|v0.0.1|
-|默认参数|否|Json|`{"getdate":"new Date()"}`|v0.0.1|
+|查询API|是|String|[/xx/xx]() or [http://xxx/xx/xx]() or [https://xxx/xx/xx]()||
+|默认参数|否|Json|`{"getdate":"new Date()"}`||
 
 ## 注意事项
 
