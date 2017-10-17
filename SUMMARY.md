@@ -10,7 +10,7 @@
 
 * [容器组件](components-panel/index.md)
   * [数据集组件](components-panel/dataset.md)
-  * [表单容器](components-panel/form.md)
+  * [表单组件](components-panel/form.md)
 
 * [展示组件](components-display/index.md)
   * [表格组件](components-display/grid.md)
