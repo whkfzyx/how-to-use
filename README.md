@@ -17,4 +17,4 @@
 
 ### 监听型组件
 * [数据集组件](components-panel/dataset.md)
-* [表单容器](components-panel/form.md)
+* [表单组件](components-panel/form.md)
