@@ -10,7 +10,7 @@
 
 ### 应用场景
 
-单独使用没有意义，需要结合展示组件一同使用。
+单独使用没有意义，需要结合**展示组件**一同使用。
 
 ### 缩略图
 
@@ -26,8 +26,8 @@
 
 |配置项|必填|数据类型|格式|备注|
 |:--|:--|:--|:--|:--|
-|查询API|是|String|[/xx/xx]() or [http://xxx/xx/xx]() or [https://xxx/xx/xx]()||
-|默认参数|否|Json|`{"getdate":"new Date()"}`||
+|查询API|是|String|[/xx/xx]() or [http://xxx/xx/xx]() or [https://xxx/xx/xx]()|无|
+|默认参数|否|Json|`{"getdate":"new Date()"}`|无|
 
 ## 注意事项
 

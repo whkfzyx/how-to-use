@@ -24,11 +24,11 @@
 
 |配置项|必填|数据类型|格式|备注|
 |:--|:--|:--|:--|:--|
-|参数名|是|String|param1||
-|触发的事件|是|String|onXXX-XXXX-XXXX||
-|TAB名|是|String|a||
-|TAB值|是|String|a||
-|默认值|是|Radio|||
+|参数名|是|String|param1|无|
+|触发的事件|是|String|onXXX-XXXX-XXXX|无|
+|TAB名|是|String|a|无|
+|TAB值|是|String|a|无|
+|默认值|是|Radio||无|
 
 ## 注意事项
 

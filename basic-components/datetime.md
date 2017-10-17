@@ -24,9 +24,9 @@
 
 |配置项|必填|数据类型|格式|备注|
 |:--|:--|:--|:--|:--|
-|参数名|是|String|param1||
-|触发的事件|是|String|onXXX-XXXX-XXXX||
-|最小时间|是|String|2017-10-16||
+|参数名|是|String|param1|无|
+|触发的事件|是|String|onXXX-XXXX-XXXX|无|
+|最小时间|否|String|2017-10-16|无|
 
 ## 注意事项
 
