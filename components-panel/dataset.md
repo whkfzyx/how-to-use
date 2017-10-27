@@ -37,8 +37,8 @@
 * 数据格式
   * 单数据源
 	 
-  ```
-  {
+  ```javascript
+  {
     default: {
       dataAnnotation: [
         {
@@ -63,7 +63,7 @@
 
   * 多数据源
 	 
-  ```
+  ```JavaScript
   {
     dataKey1: {
       dataAnnotation: [ ... ],
