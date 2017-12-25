@@ -17,5 +17,6 @@
   * [图表组件](components-display/chart.md)
 
 * [表单组件](components-form/index.md)
-  * [下拉弹窗组件](components-form/popuppicker.md)
+  * [滚动选择弹窗](components-form/popuppicker.md)
+  * [列表选择弹窗](components-form/popupchecker.md)
   * [跳转选择组件](components-form/jumper.md)
