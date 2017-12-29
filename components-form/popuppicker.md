@@ -20,7 +20,9 @@
 
 ### 缩略图
 
-* 设置基础属性
+![](images/poppicker.png)
+
+* 设置基础属性    
 
 ![](images/poppicker-1.png)
 
@@ -52,7 +54,7 @@
 |提示文字|是|String|请选择XXX|无|
 |读取参数|是|String|`dataKay`|用于取选择框默认值|
 |对齐方式|是|Radio||无|
-|是否自读|是|Boolean||无|
+|是否只读|是|Boolean||无|
 |是否必填|是|Boolean||无|
 |是否关联|是|Boolean||无|
 |依赖项|是|String|`dataKey`|用于选择框间的多级联动，存在多个时`,`号拼接|
