@@ -34,10 +34,9 @@
 * 目前仅支持`GET`请求。
 * `dataKey`需要事先与后端商量好，配置页面时，在对应的展示组件填上`dataKey`。
 * **默认参数**传入`new Date()`就是取当前时间。
-* 数据格式
-  * 单数据源
-	 
-  ```
+* 单数据源
+
+```javascript
   {
     default: {
       dataAnnotation: [
@@ -59,11 +58,11 @@
       ]
     }
   }
-  ```
+```
 
-  * 多数据源
-	 
-  ```
+* 多数据源
+
+```javascript
   {
     dataKey1: {
       dataAnnotation: [ ... ],
@@ -74,11 +73,11 @@
       dataSet: [ ... ]
     }
   }
-  ```
+```
 
-  * 带详情的数据源
-	 
-  ```
+* 带详情的数据源
+
+```javascript
   {
     default: {
       dataAnnotation: [
@@ -111,4 +110,4 @@
       ]
     }
   }
-  ```
+```
