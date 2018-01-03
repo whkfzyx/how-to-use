@@ -44,7 +44,7 @@
 
 ### 组件依赖
 
-![](images/poppickerAndOtherRelation.png)
+![](images/poppickerAndOtherRelation.png) 
 
 ## 配置说明
 
